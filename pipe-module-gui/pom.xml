@@ -54,7 +54,7 @@
         <dependency>
             <groupId>org.rendersnake</groupId>
             <artifactId>rendersnake</artifactId>
-            <version>1.9.0</version>
+            <version>1.9</version>
         </dependency>
 
         <dependency>
@@ -167,7 +167,7 @@
                     <executable>java</executable>
                     <arguments>
                         <argument>-cp</argument>
-                        <classpath />
+                        <classpath/>
                         <argument>pipe.gui.reachability.ReachabilityGraph</argument>
                     </arguments>
                 </configuration>
@@ -199,7 +199,7 @@
         								</goals>
         							</pluginExecutionFilter>
         							<action>
-        								<ignore />
+        								<ignore/>
         							</action>
         						</pluginExecution>
         					</pluginExecutions>
