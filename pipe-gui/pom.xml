@@ -67,7 +67,7 @@
                     <executable>java</executable>
                     <arguments>
                         <argument>-cp</argument>
-                        <classpath />
+                        <classpath/>
                         <argument>Pipe</argument>
                     </arguments>
                 </configuration>
@@ -201,31 +201,31 @@
         <dependency>
             <groupId>org.apache.poi</groupId>
             <artifactId>poi</artifactId>
-            <version>3.7</version>
+            <version>3.17</version>
         </dependency>
 
         <dependency>
             <groupId>org.apache.poi</groupId>
             <artifactId>poi-ooxml</artifactId>
-            <version>3.7</version>
+            <version>4.1.0</version>
         </dependency>
 
         <dependency>
             <groupId>org.apache.poi</groupId>
             <artifactId>poi-ooxml-schemas</artifactId>
-            <version>3.7</version>
+            <version>4.0.0</version>
         </dependency>
 
         <dependency>
             <groupId>org.apache.poi</groupId>
             <artifactId>poi-scratchpad</artifactId>
-            <version>3.7</version>
+            <version>5.2.1</version>
         </dependency>
 
         <dependency>
             <groupId>org.apache.poi</groupId>
             <artifactId>poi-examples</artifactId>
-            <version>3.7</version>
+            <version>5.2.1</version>
         </dependency>
 
         <dependency>
@@ -261,7 +261,7 @@
         <dependency>
             <groupId>commons-io</groupId>
             <artifactId>commons-io</artifactId>
-            <version>2.1</version>
+            <version>2.7</version>
         </dependency>
 
         <dependency>
@@ -273,13 +273,13 @@
         <dependency>
             <groupId>commons-beanutils</groupId>
             <artifactId>commons-beanutils</artifactId>
-            <version>1.8.3</version>
+            <version>1.9.2</version>
         </dependency>
 
         <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
-            <version>15.0</version>
+            <version>30.0-android</version>
         </dependency>
 
         <dependency>
